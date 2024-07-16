@@ -177,19 +177,3 @@ export function App() {
   )
 }
 
-
-//top left right e bottom igual a 0 pixels = inset-0
-//opacidade no tailwind: cor/5 em 5
-//flex wrap = para elementos quebrarem a linha quando passarem o tamanho
-//da div
-//map: percorre um array
-//key: consegue saber qual elemento está respondendo a qual item no array (é unica)
-//quando temos o map, o primeiro elemento html dentro dele precisa ter uma key
-//flex 1 - aumenta pra ocupar o maximo possivl ou diminui para o contrario
-//on submit dispara um evento (formEvent)
-//preventDefault: previne o comportamento padrão de um formulário no html
-//no nosso caso, ele não fez mais o refresh da página
-//especificar que o formevent está acontencod por um formulario (generic)
-//imutabilidade: nunca uma info é alterada, no caso o nosso array. Será criado um novo
-//devemos copiar o array colocando so dados que já tinhamos
- //acesso ao form, funçao reseta um formulario.
